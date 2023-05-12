@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/skoutng/static/css/main.73d8c2eb.css",
-    "main.js": "/skoutng/static/js/main.2b0c8346.js",
+    "main.css": "/skoutng/static/css/main.c5926981.css",
+    "main.js": "/skoutng/static/js/main.f78c3c44.js",
     "static/media/ema.png": "/skoutng/static/media/ema.19db38a4fab0cb726f71.png",
     "static/media/Background.png": "/skoutng/static/media/Background.277a6b7f0dd55e911760.png",
     "static/media/profile.png": "/skoutng/static/media/profile.416b4f565e6cf7839b59.png",
@@ -12,11 +12,11 @@
     "static/media/log-out-outline.svg": "/skoutng/static/media/log-out-outline.0c2e9eaff4019844bae7ef0b0a5504c8.svg",
     "static/media/help-circle-outline.svg": "/skoutng/static/media/help-circle-outline.f64c7863f17d9de8ab12a533d4e75130.svg",
     "static/media/person-outline.svg": "/skoutng/static/media/person-outline.3e49c2a50121abc0204060b4c1130c1f.svg",
-    "main.73d8c2eb.css.map": "/skoutng/static/css/main.73d8c2eb.css.map",
-    "main.2b0c8346.js.map": "/skoutng/static/js/main.2b0c8346.js.map"
+    "main.c5926981.css.map": "/skoutng/static/css/main.c5926981.css.map",
+    "main.f78c3c44.js.map": "/skoutng/static/js/main.f78c3c44.js.map"
   },
   "entrypoints": [
-    "static/css/main.73d8c2eb.css",
-    "static/js/main.2b0c8346.js"
+    "static/css/main.c5926981.css",
+    "static/js/main.f78c3c44.js"
   ]
 }
