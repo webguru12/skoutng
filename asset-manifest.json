@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/skoutng/static/css/main.ffe8bbb9.css",
+    "main.css": "/skoutng/static/css/main.abba1f1b.css",
     "main.js": "/skoutng/static/js/main.3d05a5d5.js",
     "static/media/ema.png": "/skoutng/static/media/ema.19db38a4fab0cb726f71.png",
     "static/media/Background.png": "/skoutng/static/media/Background.277a6b7f0dd55e911760.png",
@@ -12,11 +12,11 @@
     "static/media/log-out-outline.svg": "/skoutng/static/media/log-out-outline.0c2e9eaff4019844bae7ef0b0a5504c8.svg",
     "static/media/help-circle-outline.svg": "/skoutng/static/media/help-circle-outline.f64c7863f17d9de8ab12a533d4e75130.svg",
     "static/media/person-outline.svg": "/skoutng/static/media/person-outline.3e49c2a50121abc0204060b4c1130c1f.svg",
-    "main.ffe8bbb9.css.map": "/skoutng/static/css/main.ffe8bbb9.css.map",
+    "main.abba1f1b.css.map": "/skoutng/static/css/main.abba1f1b.css.map",
     "main.3d05a5d5.js.map": "/skoutng/static/js/main.3d05a5d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffe8bbb9.css",
+    "static/css/main.abba1f1b.css",
     "static/js/main.3d05a5d5.js"
   ]
 }
