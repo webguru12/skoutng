@@ -1,22 +1,17 @@
 {
   "files": {
-    "main.css": "/skoutng/static/css/main.8f1dd4d9.css",
-    "main.js": "/skoutng/static/js/main.f2f790a9.js",
-    "static/media/ema.png": "/skoutng/static/media/ema.19db38a4fab0cb726f71.png",
-    "static/media/Background.png": "/skoutng/static/media/Background.277a6b7f0dd55e911760.png",
-    "static/media/profile.png": "/skoutng/static/media/profile.416b4f565e6cf7839b59.png",
-    "static/media/settings-outline.svg": "/skoutng/static/media/settings-outline.b28afdd7df6370ae3834c785193c1604.svg",
-    "index.html": "/skoutng/index.html",
-    "static/media/create-outline.svg": "/skoutng/static/media/create-outline.758e20b74e542103b53d479ae9dc7c57.svg",
-    "static/media/chatbubble-outline.svg": "/skoutng/static/media/chatbubble-outline.72fdf0846c2e72574a590797f85d0760.svg",
-    "static/media/log-out-outline.svg": "/skoutng/static/media/log-out-outline.0c2e9eaff4019844bae7ef0b0a5504c8.svg",
-    "static/media/help-circle-outline.svg": "/skoutng/static/media/help-circle-outline.f64c7863f17d9de8ab12a533d4e75130.svg",
-    "static/media/person-outline.svg": "/skoutng/static/media/person-outline.3e49c2a50121abc0204060b4c1130c1f.svg",
-    "main.8f1dd4d9.css.map": "/skoutng/static/css/main.8f1dd4d9.css.map",
-    "main.f2f790a9.js.map": "/skoutng/static/js/main.f2f790a9.js.map"
+    "main.css": "/static/css/main.0aff3360.css",
+    "main.js": "/static/js/main.af8dfd42.js",
+    "static/media/Background.png": "/static/media/Background.277a6b7f0dd55e911760.png",
+    "static/media/profile.png": "/static/media/profile.416b4f565e6cf7839b59.png",
+    "static/media/banner1.jfif": "/static/media/banner1.595ab98123fe5f3d720b.jfif",
+    "index.html": "/index.html",
+    "static/media/camera-outline.svg": "/static/media/camera-outline.45882f86df5cf90982e8468406abf5ef.svg",
+    "main.0aff3360.css.map": "/static/css/main.0aff3360.css.map",
+    "main.af8dfd42.js.map": "/static/js/main.af8dfd42.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f1dd4d9.css",
-    "static/js/main.f2f790a9.js"
+    "static/css/main.0aff3360.css",
+    "static/js/main.af8dfd42.js"
   ]
 }
